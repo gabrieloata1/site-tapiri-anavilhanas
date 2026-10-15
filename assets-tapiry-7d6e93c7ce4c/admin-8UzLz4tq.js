@@ -1,0 +1,1 @@
+import{j as o,O as t}from"./index-C3h-ONy_.js";import{A as r}from"./AdminAuthContext-CVT33pHC.js";import"./legacy-client-wTSgo1Wq.js";import"./index-DD-D7CLF.js";const n=()=>o.jsx(r,{children:o.jsx(t,{})});export{n as component};
